@@ -1,4 +1,4 @@
-# 
+# Enhance DaVinci Resolve for macOS with DaVinci Resolve for macOS premium Plugin: echo-removal & noise-reduction, the #1 plugin. Includes echo-removal and noise-reduction for a
 
 
 
